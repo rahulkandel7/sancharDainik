@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653086675080",
+    "project_id": "sanchardainek",
+    "storage_bucket": "sanchardainek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653086675080:android:cb35bb4003144d68070f3d",
+        "android_client_info": {
+          "package_name": "com.bits.sanchardainik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653086675080-pp3u5lk0261uhbr20pdq2pjn8ti24olo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkdzBbspXHuLF2lBb35eZFBFNA2SG1aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653086675080-pp3u5lk0261uhbr20pdq2pjn8ti24olo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
